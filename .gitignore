@@ -1,0 +1,14 @@
+# Default ignored files
+.grandle
+/build/
+
+grandle-app.setting
+
+!grandle-wrapper.jar
+
+.grandletasknamecache
+
+
+.idea
+out
+chromedriver.exe
